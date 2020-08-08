@@ -1,6 +1,6 @@
 ## Jäger
 
-Hello!
+Hey :wave:
 
 ### Contact
 
