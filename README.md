@@ -2,7 +2,7 @@
 
 Hey :wave:
 
-### Check out my porfolio!
+### Check out my portfolio!
 
 First we need to copy this repository and change directories to it.
 
