@@ -29,7 +29,7 @@ cd jager-js
 Then execute the script.
 
 ```
-portfolio-deployer.sh
+portfolio-deployer.cmd
 ```
 **Node.js, NPM, and Git are required to run this.**
 
