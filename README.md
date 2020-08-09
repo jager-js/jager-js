@@ -31,7 +31,7 @@ Then execute the script.
 ```
 portfolio-deployer.sh
 ```
-**Node.js and NPM are required to run this.**
+**Node.js, NPM, and Git are required to run this.**
 
 ### Contact
 
